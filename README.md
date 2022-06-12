@@ -22,7 +22,7 @@
  1. Click Fork in the upper right corner, and then click Create Fork.
  2. On the repository page from Fork, click Setting and check Template repository.
  3. Then click Code to return to the previous page, click the new button Use this template under Settings, and create a new library with a random name.
- 4. For example, your Github username is bobby, and the new repository name is green. After logging in to heroku, visit <https://dashboard.heroku.com/new?template=https://github.com/bobby/green> to deploy.
+ 4. For example, your Github username is bobby, and the new repository name is green. After logging in to heroku, visit <https://dashboard.heroku.com/new?template=https://github.com/viperxfury/Cloudreve-Heroku> to deploy.
  5. First open the Cloudreve host management panel - offline download node, click on the new node to enter the wizard.
  6. Fill the Heroku Secret variable with the slave key.
  7. After Heroku is deployed, fill in the slave address with the Heroku APP domain name, the Aria2 RPC service address is <http://127.0.0.1:61800>, and the RPC key is blank.
